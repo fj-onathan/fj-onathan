@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm **Jonathan**, a passionate self-taught **software developer**. 👋
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@fj__onathan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fj_onathan)](https://twitter.com/fj_onathan)
+[![Mail Badge](https://img.shields.io/badge/-fj--onathan@outlook.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:fj-onathan@outlook.com)](mailto:fj-onathan@outlook.com)
 
 <!--
 **fj-onathan/fj-onathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
